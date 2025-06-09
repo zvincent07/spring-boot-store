@@ -17,4 +17,6 @@ VALUES ('Bananas', 1.29, 'Fresh organic bananas, sold per pound.', 1),
        ('Potato Chips', 2.99, '8 oz bag of classic salted potato chips.', 5),
        ('Chocolate Bar', 1.75, 'Milk chocolate bar with almonds.', 5);
 
+INSERT INTO users(name, email, password)
+VALUES ('User1', 'user1@domain.com', '$2a$10$I5Qapxk1QTSZpqZFkzkVD.oubpgysYsLpbsiw4uK1kIOYyT3ffaja');
 -- comment
