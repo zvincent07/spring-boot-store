@@ -16,7 +16,4 @@ VALUES ('Bananas', 1.29, 'Fresh organic bananas, sold per pound.', 1),
        ('Coca-Cola', 1.50, '500 ml bottle of Coca-Cola Classic.', 4),
        ('Potato Chips', 2.99, '8 oz bag of classic salted potato chips.', 5),
        ('Chocolate Bar', 1.75, 'Milk chocolate bar with almonds.', 5);
-
-INSERT INTO users(name, email, password)
-VALUES ('User1', 'user1@domain.com', '$2a$10$I5Qapxk1QTSZpqZFkzkVD.oubpgysYsLpbsiw4uK1kIOYyT3ffaja');
 -- comment
